@@ -6,6 +6,7 @@
 
 <h3>Things you need to create a route</h3>
 <ul>
-<li>Abce</li>
-<li>Abce</li>
+<li>Create Link: so that you can go to this route</li>
+<li>Create Component: to add what you will show once you go to that route</li>
+<li>Add route so that react router know the component it needs to display while you will visiting the route </li>
 </ul>
